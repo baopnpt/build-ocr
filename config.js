@@ -2,4 +2,4 @@
 // window.host = 'https://dbxapi-dev.techfast.vn';
 window.host = 'http://localhost:8000';
 // 
-window.envi = "prod";
+window.envi = "dev";
